@@ -16,3 +16,6 @@
 
 # Trained models
 *.pkl
+
+# MNIST data through memmap()
+*.data
